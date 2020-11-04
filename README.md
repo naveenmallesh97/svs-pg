@@ -2,3 +2,4 @@
 morning break fast
 after noon lunch
 night dinner
+entered
